@@ -1,6 +1,7 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/Servlet.java to edit this template
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
  */
 
 import java.io.IOException;
@@ -12,7 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author ashle
+ * @author demon
  */
 public class Registro extends HttpServlet {
 
@@ -36,8 +37,8 @@ public class Registro extends HttpServlet {
             out.println("<title>Servlet Registro</title>");            
             out.println("</head>");
             out.println("<body>");
-            out.println("<h1>Registro  Exitoso... Creo</h1>");
-            out.println("<a href='index.html'>Regresar al Menu Principal<a>");
+            out.println("<h1>Registro Exitoso wiiii</h1>");
+            out.println("<a href='index.html' >Regresar al Menu Principal</a>");
             out.println("</body>");
             out.println("</html>");
         }
