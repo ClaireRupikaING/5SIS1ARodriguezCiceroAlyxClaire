@@ -1,7 +1,7 @@
 <%-- 
     Document   : inicio
     Created on : 5/03/2024, 08:15:53 AM
-    Author     : demon
+    Author     : Claire
 --%>
 
 <%@page import="java.util.List"%>

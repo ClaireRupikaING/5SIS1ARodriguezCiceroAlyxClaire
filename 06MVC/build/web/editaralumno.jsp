@@ -1,7 +1,7 @@
 <%-- 
     Document   : editaralumno
     Created on : 5/03/2024, 08:24:58 AM
-    Author     : demon
+    Author     : Claire
 --%>
 
 <%@page import="Modelo.Alumno"%>

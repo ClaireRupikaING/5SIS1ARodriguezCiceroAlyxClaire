@@ -1,7 +1,7 @@
 <%-- 
     Document   : registro
     Created on : 4/03/2024, 09:44:52 AM
-    Author     : demon
+    Author     : Claire
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

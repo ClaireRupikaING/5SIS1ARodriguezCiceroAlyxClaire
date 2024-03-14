@@ -12,7 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Ocurrio un Error Disculpe las Molestias</h1>
+        <h1>Ocurrio un Error Fatal Sorry Not Sorry</h1>
         <br>
         <a href="index.html" >Regresar al Menu Principal</a>
     </body>
